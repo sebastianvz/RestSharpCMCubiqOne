@@ -1,5 +1,6 @@
 ﻿using CubiqOneAcces.Helpers;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using RestSharp;
 using System;
 using System.Collections.Generic;
@@ -11,7 +12,7 @@ namespace CubiqOne.Controller
 {
     public class CubiqOneAccess
     {
-        public IRestResponse AccessCubiqOne(string resource, string IpAddress, string method, object parameters = null)
+        public IRestResponse AccessCubiqOne(string resource, string IpAddress, string method, string parameters = null)
         {
             var recivemethod = (method.ToLower().Equals("post")) ? Method.POST : Method.GET;
             IRestResponse resp;
@@ -28,7 +29,7 @@ namespace CubiqOne.Controller
             if (parameters != null)
             {
                 request.AddHeader("Accept", "application/json charset=utf-8");
-                var json = JsonConvert.SerializeObject(parameters);
+                var json = JObject.Parse(parameters);
                 request.AddParameter("application/json", json, ParameterType.RequestBody);
             }
             var sendIt = Utilities.doRequest(request, client);
