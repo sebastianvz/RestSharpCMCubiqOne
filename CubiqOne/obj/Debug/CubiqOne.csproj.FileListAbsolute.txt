@@ -1,0 +1,9 @@
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\CubiqOne\obj\Debug\CubiqOne.csprojResolveAssemblyReference.cache
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\CubiqOne\bin\Debug\CubiqOne.dll
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\CubiqOne\bin\Debug\CubiqOne.pdb
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\CubiqOne\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\CubiqOne\bin\Debug\RestSharp.dll
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\CubiqOne\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\CubiqOne\bin\Debug\RestSharp.xml
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\CubiqOne\obj\Debug\CubiqOne.dll
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\CubiqOne\obj\Debug\CubiqOne.pdb

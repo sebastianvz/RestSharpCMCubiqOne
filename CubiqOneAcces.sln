@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubiqManager", "CubiqManager\CubiqManager.csproj", "{EC8D7C9C-DEED-40C2-AE27-9CB3F29062D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{A1A0A69D-7256-4FA5-A3ED-AF8A6AB128E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubiqOne", "CubiqOne\CubiqOne.csproj", "{4B06278C-7705-4B0F-B5D8-0116F1AC914F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8D7C9C-DEED-40C2-AE27-9CB3F29062D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8D7C9C-DEED-40C2-AE27-9CB3F29062D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8D7C9C-DEED-40C2-AE27-9CB3F29062D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8D7C9C-DEED-40C2-AE27-9CB3F29062D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A0A69D-7256-4FA5-A3ED-AF8A6AB128E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A0A69D-7256-4FA5-A3ED-AF8A6AB128E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A0A69D-7256-4FA5-A3ED-AF8A6AB128E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A0A69D-7256-4FA5-A3ED-AF8A6AB128E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B06278C-7705-4B0F-B5D8-0116F1AC914F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B06278C-7705-4B0F-B5D8-0116F1AC914F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B06278C-7705-4B0F-B5D8-0116F1AC914F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B06278C-7705-4B0F-B5D8-0116F1AC914F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58D8F970-46B2-46E2-B23A-A3339289D777}
+	EndGlobalSection
+EndGlobal

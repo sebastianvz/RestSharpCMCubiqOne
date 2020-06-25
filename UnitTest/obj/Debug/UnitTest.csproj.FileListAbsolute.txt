@@ -1,0 +1,13 @@
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\bin\Debug\CubiqManager.dll
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\bin\Debug\CubiqManager.pdb
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\bin\Debug\RestSharp.xml
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\bin\Debug\CubiqOne.dll
+C:\Users\Vaado\Sebastian Velez\Repos\CubiqOneAcces\UnitTest\bin\Debug\CubiqOne.pdb
