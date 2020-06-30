@@ -43,10 +43,10 @@ namespace UnitTest
         public void TestMethodCubiqOneAccessJson()
         {
             CubiqOneAccess test4 = new CubiqOneAccess();
-            string resource = "getConfigAll";
-            string method = "get";
+            string resource = "getReports";
+            string method = "post";
             string ipAddress = "10.8.0.18";
-            string parameter = "get";
+            string parameter = "{'show': 'some','date': {'start': '2020-06-07','end': '2020-06-30'}}";
             test4.AccessCubiqOne(resource, ipAddress, method, parameter);
         }
 
